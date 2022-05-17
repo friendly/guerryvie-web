@@ -1,5 +1,5 @@
 ---
-title: "The Life and Works of André-Michel Guerry, Revisited"
+title: "Supplementary materials: The Life and Works of André-Michel Guerry, Revisited"
 author:
   - name: Michael Friendly 
     url: https://www.datavis.ca/papers/guerryvie
@@ -19,7 +19,9 @@ library(htmltools)
 
 This page lists supplementary materials associated with my paper,
 [The Life and Works of André-Michel Guerry, Revisited](GuerryLife3.pdf),
-in press, [Sociological Spectrum](https://www.tandfonline.com/journals/usls20), accepted April, 2022.
+in press, [Sociological Spectrum](https://www.tandfonline.com/journals/usls20), accepted April, 2022,
+[DOI](10.1080/02732173.2022.2078450).
+
 It includes Guerry's works on moral statistics, often difficult to find,
 and several related papers by Quetelet and others.
 In addition, English translations are provided for a few of these.

@@ -38,7 +38,7 @@ In addition, English translations are provided for a few of these.
 
 * Friendly, M. (2007) [A.-M. Guerry’s Moral Statistics of France: Challenges for Multivariable Spatial Analysis.](http://www.datavis.ca/papers/guerry-STS241.pdf) 
 _Statistical Science_, **22**, 368–399.
-  + [Supplementary materials for this paper](https://www.datavis.ca/papers/guerry)
+  + [Supplementary materials for this paper](https://www.datavis.ca/gallery/guerry/)
 
 * Friendly, M. (2007) [The Life and Works of André-Michel Guerry (1802-1866).](GuerryLife.pdf)
 

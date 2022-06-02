@@ -5,7 +5,7 @@
 <!-- badges: end -->
 
 This page lists supplementary materials associated with my paper,
-_The Life and Works of André-Michel Guerry, Revisited_,
+[_The Life and Works of André-Michel Guerry, Revisited_](https://www.tandfonline.com/doi/full/10.1080/02732173.2022.2078450),
 hosted at https://www.datavis.ca/papers/guerryvie/
 
 Among other things, it includes:
@@ -16,3 +16,4 @@ Among other things, it includes:
 * Quetelet's 1831 _Recherches sur le penchant au crime aux différents âges_ in French and English
 
 
+I am grateful to Viviana Vumbaca for assistance with the translations.
